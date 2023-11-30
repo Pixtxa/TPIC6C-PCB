@@ -2,8 +2,8 @@
 
 Breakout board for [TPIC6C596 shift registers with 8x open drain output](https://www.ti.com/product/TPIC6C596) with neopixels as status leds.
 
-![rainbow animation](https://github.com/Pixtxa/TPIC6C-PCB/assets/30337073/0099fab3-86c0-49ad-affd-d5fc4315ccc4) ![ezgif-2-c943118332](https://github.com/Pixtxa/TPIC6C-PCB/assets/30337073/e00b33d3-ea05-451d-b40d-9292f164d783)
-![photo1697587400](https://github.com/Pixtxa/TPIC6C-PCB/assets/30337073/8aab83a8-5443-406b-adb5-7d1c51bd5dfe)
+![Rainbow animation](https://github.com/Pixtxa/TPIC6C-PCB/assets/30337073/0099fab3-86c0-49ad-affd-d5fc4315ccc4) ![Animation with outputs active](https://github.com/Pixtxa/TPIC6C-PCB/assets/30337073/e00b33d3-ea05-451d-b40d-9292f164d783)
+![Single PCBs](https://github.com/Pixtxa/TPIC6C-PCB/assets/30337073/4f485a8d-ba6f-408b-aef5-152de061db0a)
 
 ## Features
 * Daisy chaining of multiple boards
@@ -83,6 +83,8 @@ Breakout board for [TPIC6C596 shift registers with 8x open drain output](https:/
   * Main part SMD connector features 5 Outputs, because KombiSIGN can handle up to 5 Tiers
   * 40 mm output pitch when using up to 4 outputs, because MC35 has 35 mm diameter and 4 inputs, leaving 5 mm space between lamps
   * 80 mm output pitch when using 5 or more outputs, because eSIGN/KS71/KS72 have 70 mm diameter, leaving 10 mm space between lamps
+
+![photo1697587400](https://github.com/Pixtxa/TPIC6C-PCB/assets/30337073/8aab83a8-5443-406b-adb5-7d1c51bd5dfe)
 
 ## Known bugs
 * Heat transfer
